@@ -35,8 +35,13 @@
 
 [ERD](/ERD/ERD_de2025.drawio.pdf)
 
+[SQL скрипт создания бд](/SQL/asmorkalov_de2025.sql)
+
 ### Модуль № 2: Соадминистрирование баз данных и серверов
 
+![image](/image/imageERD.png)
+
+![image](/image/TableRoom.png)
 
 ### Модуль № 3: Проектирование и разработка информационных систем
 
